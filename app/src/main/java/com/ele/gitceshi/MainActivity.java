@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     private  String testT = "dev提交";
     private  String testT2 = "de2提交";
+    private  String testT3 = "dev2提交测试文版";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
